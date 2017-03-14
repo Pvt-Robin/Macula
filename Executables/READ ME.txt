@@ -1,0 +1,23 @@
+Macula - A Remote PC Controller
+
+A project to replace classic keyboard-mouse combination with wireless touch devices using Wireless Fidelity.
+*************************************************************
+PC Requirements:
+*512 MB RAM or above
+*Any OS with Java Runtime installed
+*Wifi Adapter/enabled
+Mobile Requirement:
+*Android 4.1 and above
+*WiFi Direct
+*Multi core RAM is efficient
+*************************************************************
+Distributions:
+Macula Nest-A PC side application
+*Platform Independent Version - A Java Archive.works on any OS with Java installed.
+*Windows Portable Version - Directly runnable from a portable drive.
+*Windows Setup - Incase there is trouble with Firewall in portable version,use this.
+
+Macula Drone - Android side application
+*APK Version - for android phones above 4.1
+*************************************************************
+Thank You For Trying...

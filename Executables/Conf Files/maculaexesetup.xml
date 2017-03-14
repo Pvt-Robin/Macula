@@ -1,0 +1,44 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\Macula_Nest.jar</jar>
+  <outfile>E:\Work Shop\Deployment\Macula Nest.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>E:\Work Shop\NestC\dronested.png</icon>
+  <singleInstance>
+    <mutexName>Macula Nest</mutexName>
+    <windowTitle>Macula Nest</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <minVersion>1.5.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <splash>
+    <file>E:\Work Shop\DroneC\DRONEC trans.png</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>60</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.RC1</txtFileVersion>
+    <fileDescription>Remote PC Controller</fileDescription>
+    <copyright>Freeware</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.RC1</txtProductVersion>
+    <productName>Macula Nest</productName>
+    <companyName>IJCE Student Project</companyName>
+    <internalName>ARMS</internalName>
+    <originalFilename>Macula Nest.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>

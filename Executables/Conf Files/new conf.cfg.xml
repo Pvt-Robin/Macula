@@ -1,0 +1,45 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\Macula_Nest.jar</jar>
+  <outfile>E:\Macula Nest.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>E:\Work Shop\NestC\dronested.png</icon>
+  <singleInstance>
+    <mutexName>Macula Nest</mutexName>
+    <windowTitle>Macula</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0_03</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.1</fileVersion>
+    <txtFileVersion>1.03.RC1</txtFileVersion>
+    <fileDescription>Remote PC controller</fileDescription>
+    <copyright>Freeware</copyright>
+    <productVersion>1.0.0.1</productVersion>
+    <txtProductVersion>1.03.RC1</txtProductVersion>
+    <productName>Macula</productName>
+    <companyName></companyName>
+    <internalName>IJCE Students</internalName>
+    <originalFilename>Macula Nest.exe</originalFilename>
+  </versionInfo>
+  <messages>
+    <startupErr>An error occurred while starting the application.</startupErr>
+    <bundledJreErr>This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
